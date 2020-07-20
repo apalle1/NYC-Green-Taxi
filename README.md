@@ -1,4 +1,4 @@
-# NYC-Green-Taxi
+# NYC Green Taxi Analysis
 
 **Task 1**
 
@@ -25,3 +25,9 @@
 * Build a derived variable representing the average speed over the course of a trip.
 * Can you perform a test to determine if the average trip speeds are materially the same in all weeks of September? If you decide they are not the same, can you form a hypothesis regarding why they differ?
 * Can you build up a hypothesis of average trip speed as a function of time of day?
+
+**Dataset**
+
+We will use data collected by the New York City Taxi and Limousine commission about “Green” Taxis. Green Taxis (as opposed to yellow ones) are taxis that are not allowed to pick up passengers inside of the densely populated areas of Manhattan. We will use the data from September 2015. We are using NYC Taxi and Limousine trip record data: (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+
+
